@@ -4,8 +4,8 @@ Prueba de concepto que demuestra el uso de Drizzle ORM con MySQL.
 
 ## Documentación
 
-[Informe de la PoC](https://github.com/Luks-bot/PoC-2026/blob/main/docs/PoC.pdf)
-[Presentación](https://github.com/Luks-bot/PoC-2026/blob/main/docs/PoC_Drizzle_ORM.pptx)
+- [Informe de la PoC](https://github.com/Luks-bot/PoC-2026/blob/main/docs/PoC.pdf)
+- [Presentación](https://github.com/Luks-bot/PoC-2026/blob/main/docs/PoC_Drizzle_ORM.pptx)
 
 ## ¿Qué hace?
 
