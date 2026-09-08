@@ -2,6 +2,13 @@
 
 Prueba de concepto que demuestra el uso de Drizzle ORM con MySQL.
 
+## Integrantes
+
+- Arrebillaga, Matias 50176
+- Battocchio, Leandro 53750
+- Fernandez, Lucas 54129
+- Recchi, Mirko 51377
+
 ## Documentación
 
 - [Informe de la PoC](https://github.com/Luks-bot/PoC-2026/blob/main/docs/PoC.pdf)
